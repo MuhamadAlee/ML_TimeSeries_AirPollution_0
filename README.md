@@ -11,7 +11,7 @@ step 2) install requirements
 
     pip install -r requirements.txt
     
-step 3) run file .ipynb file
+step 3) run file AirPollutionTimeSreies.ipynb file
     
     jupyter notebook
     
